@@ -1,8 +1,8 @@
 ## Program to swap two numbers without any temporary variables
 ## Day-3 Question 4 from LetsUpgrade AI ML 
 
-a = 60
-b = 90
+a = int(input("Enter the first value: "))
+b = int(input("Enter the second value: "))
 
 print("Before swap\n\t a = ", a, ", b = ", b)
 a, b = b, a

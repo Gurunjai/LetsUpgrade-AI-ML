@@ -1,7 +1,7 @@
 ## Program to convert the provided farenheit to a Kelvin and Celsius
 ## Day-3 Question 5 from LetsUpgrade AI ML 
 
-faren = 100
+faren = int(input("Enter the temperature in Farenheit: "))
 
 """
     The value of farenheit can be converted to a Kelvin with the help of the following convention
